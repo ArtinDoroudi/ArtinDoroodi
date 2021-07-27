@@ -24,7 +24,7 @@
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![cpp](https://img.shields.io/badge/C++-FCC624?style=for-the-badge&logo=cplusplus&logoColor=white&color=blue&labelColor=blue)
 ![Algorithm](https://img.shields.io/badge/Algorithms-FCC624?style=for-the-badge&logo=Material-Design-Icons&logoColor=black)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-FCC624?style=for-the-badge&logo=GraphQL&logoColor=black&color=black&labelColor=green)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-FCC624?style=for-the-badge&logo=GraphQL&logoColor=black&color=green&labelColor=green)
 ![VScode](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
