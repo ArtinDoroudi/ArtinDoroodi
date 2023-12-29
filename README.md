@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Artin Doroodi</h1>
+<h1 align="center">Well Hello There!</h1>
+
+<!--
 <h3 align="center">interested in to Algorithms and Data structures (mainly in c++ but sometimes python too:))🚀</h3>
 
 <p align=""> <img src="https://komarev.com/ghpvc/?username=MewAtomic&label=Profile%20views&color=0e75b6&style=flat" alt="MewAtomic" /> </p>
@@ -23,6 +25,9 @@
 ![VScode](https://img.shields.io/badge/VScode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+-->
+
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mewatomic&show_icons=true&theme=tokyonight)
 ![](https://activity-graph.herokuapp.com/graph?username=mewatomic&theme=react-dark&area=true)
